@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"McDonalds",
+        "location":"Kothrud",
+        "dishName":"McChicken Maharaja",
+        "image":"https://mcdonaldsblog.in/wp-content/uploads/2016/11/maharaja-mac-story_McDonalds_081116.jpg"
+    },
+    {
+        "id":2,
+        "name":"KFC",
+        "location":"Wakad",
+        "dishName":"Chicken Hot Wings",
+        "image":"https://online.kfc.co.in/Content/OnlineOrderingImages/Menu/Items/customize/lg2x/CAT89-2149.jpg?v=15.20"
+    },
+    {
+        "id":3,
+        "name":"Subway",
+        "location":"Aundh",
+        "dishName":"Chicken Tuna",
+        "image":"https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2019/05/rotisserie-style-chicken-articleH-051419.png"
+    },
+    {
+        "id":4,
+        "name":"Domino's",
+        "location":"Balewadi",
+        "dishName":"Farmhouse Pizza",
+        "image":"https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/vyfva49evyakeunhurok"
+    },
+    {
+        "id":5,
+        "name":"Burger King",
+        "location":"Baner",
+        "dishName":"Chicken Wooper",
+        "image":"https://burgerking-image.s3.amazonaws.com/products/Home/ms/2x_ms_20201223093335907812_750x400jpg"
+    }
+]
